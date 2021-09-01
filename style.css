@@ -145,9 +145,9 @@ header ul li{
 }
 .mid img{
     height: 48.5vh;
-    margin: 6px 0 0 10px;
+    margin: 6px 0 0 50px;
     border-radius: 12px;
-    width: 74vh;
+    width: 78vh;
 }
 /* Bottom Container CSS */
 .bottom-container{
